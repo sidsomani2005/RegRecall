@@ -32,6 +32,9 @@ def scrape_sec_complaints():
 
     download_directory = "data/sec_complaints"
 
+    # Create the directory if it doesn't exist
+    os.makedirs(download_directory, exist_ok=True)
+
     chrome_options = Options()
     # chrome_options.add_argument("--headless")
     chrome_options.add_experimental_option("prefs", {
