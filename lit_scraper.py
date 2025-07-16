@@ -40,7 +40,8 @@ def check_and_close_popup(driver):
 
 def scrape_sec_complaints():
 
-    download_directory = "data/sec_complaints"
+    # download_directory = "data/sec_complaints"
+    download_directory = os.path.abspath("data/sec_complaints")
 
     # Create the directory if it doesn't exist
     os.makedirs(download_directory, exist_ok=True)
@@ -59,7 +60,7 @@ def scrape_sec_complaints():
     driver = webdriver.Chrome(service=service, options=chrome_options) #new
 
     downloaded_files = []
-    total_size = 0 #new 
+    total_size = 0 
     runs = 0
     downloads = 0
     try:
@@ -77,10 +78,16 @@ def scrape_sec_complaints():
                     file_name = complaint_url.split('/')[-1]
                     downloaded_files.append(file_name)
                     downloads+=1
+
+                if downloads >= 10:
+                    break  # stop iterating links on this page
+            
                 else:
                     print(f"Skipped non-PDF link: {complaint_url}")
 
-            wait_for_downloads(download_directory)
+            if downloads >= 10:
+                wait_for_downloads(download_directory)
+                break  # stop the outer while loop and exit scraping
             
             # Update total_size after each page of downloads
             total_size += sum(os.path.getsize(os.path.join(download_directory, f))
