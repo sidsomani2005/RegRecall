@@ -41,7 +41,7 @@ def scrape_sec_complaints():
         "plugins.always_open_pdf_externally": True  
     })
 
-    chrome_driver_path = "./chromedriver/chromedriver.exe"
+    chrome_driver_path = "/opt/homebrew/bin/chromedriver"
     service = Service(chrome_driver_path)
     driver = webdriver.Chrome(service=service, options=chrome_options) #new
 
