@@ -1,0 +1,498 @@
+1 
+ united states district court 
+southern district of florida 
+securities and ex change commission, 
+   p l a i n t i f f ,   v. benjamin ballout, 
+mohamed zayed, and william fielding,  
+ defendants.  
+  
+ 
+         
+        civ. action no. 9:24-cv-81170 
+    jury trial demanded  
+ 
+complaint 
+the securities and exchange commission (“ sec ”) files this complaint against benjamin 
+ballout (“ ballout ”), mohamed zayed (“ zayed ”), and william fielding (“ fielding ”) (collectively, 
+“defendants ”), and alleges as follows: 
+i. summary  
+1. defendants engaged in a fraudulent scheme to pump and dump the publicly traded 
+stock of enerkon solar international, inc. (“ enerkon ”). as the sole officer and controlling 
+shareholder of enerkon, ballout schemed to inflate enerkon’s stoc k price primarily through false 
+and misleading statements and omissi ons in its public statements and disclosures to investors. with 
+the help of ballout, fielding and zayed then pr ofited from the scheme through the conversion of 
+a bogus promissory note into enerkon stock, which they sold to a third party at inflated prices.     
+2. ballout acquired a controlling interest in  enerkon in or around february 2018, and 
+thereafter became enerkon’s sole officer. enerkon was a penny-stock company that had no 
+employees (aside from ballout) or legitimate business operations. ba llout made a series of false case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 1 of 22 2 
+ and misleading statements and o missions to pump enerkon’s stock price, including misstatements 
+and omissions about enerkon’s supposed busine ss opportunities, assets, and liabilities.    
+3. for example, in 2021, ballout authored a nd issued three pre ss releases falsely 
+claiming that enerkon: (1) acquired a company with distribution right s to a covid-19 instant test, 
+(2) received a $28 million order for the tests, and (3) purchased 122 acres in pennsylvania to build 
+a power plant.  zayed, who had a longstanding relations hip with ballout, fabricated a bogus 
+purchase order purporting to evidence the $28 million order. on june 22, 2021, based on these 
+press releases and questions concerning the accuracy of other public statements or disclosures that 
+enerkon made to investors, the sec temporaril y suspended trading in enerkon’s securities. 
+4. prior to the trading suspen sion, fielding and zayed coordinated with ballout to 
+capitalize on the inflated price of enerkon’s stock. they did so through a convertib le promissory 
+note that enerkon issued to fielding as purpor ted consideration for a $180,000 loan. in reality, 
+fielding never made a $180,000 loan to enerkon, a nd the note was backdated to november 2017 
+and signed by ballout, even though he had no affi liation with enerkon in november 2017. in 
+march 2021, enerkon’s transfer agent received an em ail from fielding’s email account, instructing 
+the transfer agent to convert th e bogus promissory note into en erkon stock. the email attached a 
+fabricated fielding bank account statement and other false record s, purporting to evidence his 
+alleged $180,000 loan. relying on these false document s, the transfer agent issued enerkon stock 
+to fielding as instructed. in tr ansactions coordinated and negotia ted on his behalf by zayed and 
+ballout, fielding then sold a portion of his ener kon shares to a third- party investor for $407,000. 
+fielding later paid $96,000 of the trad ing profits to zayed for his role in the fraudulent scheme.      
+5. by engaging in the acts and conduct a lleged herein, defendants violated the 
+antifraud provisions of the federal securities laws. in the interest  of protecting the public from case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 2 of 22 3 
+ further violations and enforcing the federal securities laws, the sec brings this action seeking 
+permanent injunctive relief, dis gorgement of ill-gotten gains pl us prejudgment interest, civil 
+penalties, and all other equitable and ancillar y relief the court deem s necessary and proper. 
+ii. jurisdiction and venue 
+6. the sec brings this action pursuant to the authority conferred upon it by sections 
+20(b) and 20(d) of the securities act of 1933 (“ securities act ”) [15 u.s.c. §§ 77t(b) and 77t(d)] 
+and sections 21(d) and 21(e) of th e securities exchange act of 1934 (“ exchange act ”) [15 u.s.c. 
+§§ 78u(d) and 78u(e)]. 
+7. this court has jurisdiction over this action pursuant to sections 20 and 22(a) of the 
+securities act [15 u.s.c. §§ 77t and 77v(a)] and s ections 21(d), 21(e), and 27 of the exchange 
+act [15 u.s.c. §§ 78u(d), (e), and 78aa]. defendants, directly or indi rectly, made use of the mails 
+or means or instrumentalities of interstate comm erce, and/or made use of  the mails or means or 
+instruments of transportation or communication, or of faci lities of a national securities exchange 
+in interstate commerce, in connection with the act s, practices, transactions , and courses of business 
+alleged in this complaint.  
+8. venue is proper in this district pursuant to section 22(a) of the securities act [15 
+u.s.c. § 77v(a)] and section 27 of the exchange act [15 u.s.c. § 78aa]. certain acts, practices, 
+transactions, and courses of busines s constituting violations of th e securities laws alleged herein 
+occurred within this district. at all relevant times, fielding resided in this district during the course of the relevant events in this case. in addition, fielding served as the registered agent of 
+enerkon, at an address in this distri ct, during at least part  of the relevant even ts in this case. the 
+false and misleading statements and omissions in enerkon’s press releases and public disclosures 
+alleged herein were published to investors in this district.  case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 3 of 22 4 
+ iii. defendants 
+9. defendant ballout is a resident of ca nton, michigan. between february 2018 and 
+october 6, 2022, he was the presid ent, chief executive officer (“ ceo ”), and chief financial 
+officer (“ cfo ”) of enerkon, as well as a member  of its board of directors.  
+10. defendant zayed is a citizen and resident  of egypt. in 1997, za yed was indicted by 
+a federal grand jury for wire fraud, scheme to defraud, and mone y laundering, and a warrant was 
+issued for his arrest. see united states v. zayed , no. 1:97-cr-0039 (e.d. tenn.). in 1998, the sec 
+sued zayed for securities fraud in connection with  the promotion and sale of the stock of genesis 
+international financial services, inc., alleging that he used fra udulent financial statements and 
+press releases to deceive  prospective investors. see sec v. zayed , no. 1:98-cv-327 (e.d. tenn.); 
+sec lit. release no. 15907 (sept. 24, 1998). the se c was not able to serve zayed with that 
+lawsuit and subsequently dismissed its cl aims against zayed without prejudice.  
+11. defendant fielding is a resident of delr ay beach, florida. he was formerly the 
+registered agent of enerkon, includi ng during at least part of the rele vant events discussed herein.  
+iv. related entity  
+12. enerkon was a nevada corporation with it s principal place of  business in new 
+york, new york. its comm on stock was quoted and tr aded on over-the-counter (“ otc ”) markets 
+under the symbol “enks.” it published otc disclo sure statements and otc financial reports 
+pursuant to the pink basic disclosure guidelines  through a publicly availa ble website maintained 
+by otc markets group, inc. on june 22, 2021, the sec suspended tr ading in enerkon’s securities 
+pursuant to section 12(k) of the securities act.  on or about october 6, 2022, enerkon was sold to 
+new investors who subsequently rename d it and put in new management.  case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 4 of 22 5 
+ v. facts 
+a. defendants and enerkon  
+13. ballout became enerkon’s pr esident, ceo, and cfo in or around february 8, 2018, 
+after acquiring a controlling interest  in the company from its prior owner, and he remained its sole 
+officer until approximately october 6, 2022. between february 2018 and october 2022, ballout drafted enerkon’s press releases and had sole authority to appr ove them. he also drafted and 
+approved all of enerkon’s otc disclosures, otc financial reports, and other public filings.  
+14. fielding and zayed have a longstanding business rela tionship through a company 
+that they jointly own that focuses on defense/s ecurity in the middle east. through that work and 
+before ballout acquired a controlling interest in enerkon, fielding and zayed met and developed 
+a relationship with ballout, who was also working in the defense/security industry at the time.  
+15. subsequently, fielding and zayed became involved in enerkon, with zayed acting 
+in an unofficial role and fielding serving as its registered agent. fielding also purported to be 
+enerkon’s lender and shareholder th rough a bogus promissory note that he converted to shares of 
+enerkon, as further discussed below.  
+16. informally, fielding let ball out and zayed use his credit cards to pay miscellaneous 
+expenses for enerkon, including en erkon expenses relating to otc administrative fees, publishing 
+press releases, domain hosting fees , and other similar charges. thes e charges were typically in the 
+range of $2,000–$3,000 per month, and were commingled with charges that fielding, ballout, or zayed made on the same credit cards for expenses  unrelated to enerkon. fiel ding testified that he 
+was reimbursed for some of these monthly charge s relating to enerkon, but not all. it does not 
+appear that enerkon contemporaneously or formally : (i) accounted in its books and records for the 
+expenses that were paid for with fielding’s credit cards; or (ii) disclosed these expenses in its otc 
+disclosures, otc financial statemen ts, or other public disclosures.  case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 5 of 22 6 
+ b. ballout made a series of false and misleadi ng statements and omissions to investors 
+in furtherance of his scheme to inflate enerkon’s stock price.  
+17. shortly after acquiring a c ontrolling interest  in enerkon in february 2018 and 
+continuing until the sec suspended trading in enerkon’s securities on june 22, 2021, ballout knowingly or severely recklessly engaged in a sc heme to inflate the price of enerkon’s publicly 
+traded stock. he sought to a ccomplish this scheme primarily  through false and misleading 
+statements and omissions in ener kon’s press releases and public fi lings—all of which he authored 
+and approved as the sole office r of enerkon. these false and misl eading statements and omissions 
+created false and misleading impressions about en erkon’s supposed busine ss opportunities, assets, 
+and liabilities.  
+i. ballout’s scheme to pump enerkon’s stock price  
+ 
+18. as the controlling shareholder in enerkon, ballout had a strong financial 
+motivation to pump enerkon’s stoc k price. during the course of his scheme, ballout owned 33 
+million shares of enerkon stock, mo re than 50% of its outstanding stock. by increasing the value 
+of enerkon stock, he stood to make  a significant profit th rough the eventual sale of his shares.  
+19. however, enerkon was not engaged in a ny known profit-generating business. at 
+all relevant times, enerkon’s bank account ha d less than $100. and following ballout’s acquisition 
+of enerkon, he relied on fielding’s  personal credit card to help f und enerkon’s operating expenses.  
+20. rather than work to improve enerkon’s business or to enha nce its underlying 
+financial value, ballout develope d and implemented a scheme to artificially inflate the price of 
+enerkon’s stock. to that end, by at least early 2 021, ballout touted plans to increase enerkon’s 
+stock price above $4.00 per share to  qualify for listing on the nasd aq stock exchange. in a march 
+2021 press release, for example, ballout cited the company’s continued plans to qualify for trading 
+on nasdaq. in another press release dated may 20, 2021, ballout again cited enerkon’s “up list case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 6 of 22 7 
+ plans to the nasdaq market which maintains a minimum share entry price of $4.00 to qualify 
+for listing on the national exchange.”  
+21. ballout’s scheme, however, was foiled when the sec suspended trading in 
+enerkon’s securities on june 22, 202 1. according to the sec’s pres s release dated june 22, 2021, 
+the temporary suspension was “due to, among other things, lack of adequate and accurate information in enerkon’s quarterly  and annual financials ” and questions regard ing “the accuracy 
+and adequacy of publicly disseminated informati on in press releases,” including the three press 
+releases discussed further below. before the sec suspended trading, ballout knowingly or 
+severely recklessly made materially false statem ents and omissions and engaged in deceptive acts 
+in furtherance of his scheme, including but not limited to the examples discussed below.  
+ii. ballout made false and misleading statem ents and omissions in enerkon’s press 
+releases concerning supposed business opportunities arising from a covid-19 test device. 
+ 
+22. on march 9, 2021, enerkon issued a press release, which ballout authored and 
+approved. the press release touted enerkon’s purporte d partial acquisition of  a u.k. corporation 
+based in london, england (the “ agent ”). it also discussed a covi d-19 test device manufactured 
+by a canadian company (the “ manufacturer ”), and for which another canadian company held 
+exclusive distribu tion rights (the “ distributor ”). in relevant part, the press release stated:    
+we are pleased to announce that we have  completed the initial acquisition of 
+[agent] whereby a 40% stake was acquired and an additional 60% is expected to 
+be acquired additionally in the coming week . . . [agent ] owns distribution rights 
+to a new covid-19 test device, produced by [manufacturer] and [distributor], 
+which is a rapid (15 seconds) test device . . .     23. in reality, the agent did not own distribut ion rights to the covid-19 test device 
+referenced in the march 9, 2021 pre ss release. in late 2020, agent entered a sales-representative 
+agreement with the distributor, the master distributor of products  manufactured by the case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 7 of 22 8 
+ manufacturer. but that agreement did not give ag ent any distribution righ ts to those products. a 
+subsequent memorandum of u nderstanding dated january 24, 2021, between distributor and 
+agent also made clear that agent did not own distribution rights.  
+24. distributor’s executives also expressly in formed ballout and za yed that agent did 
+not own any distribution rights to the covid-19 test. upon lear ning of the march 9, 2021 press 
+release, a distributor executive sent an ema il on or around march 17, 2021 to ballout, copying 
+zayed, expressly informing him:  
+unfortunately, the information you are sendi ng out in the public to raise funds and 
+awareness is completely fals e. we have entertained di scussions with [agent] to 
+eventually become a sub-distributor of [dis tributor] for the sale  and distribution of 
+various products and services for which we hold the rights th rough proper and legal 
+contracts with the patent hol der [manufacturer]. to date no firm contract has been 
+finalized or even less signed. your webs ite is advertising false and misleading 
+information. [agent] does not own the di stribution rights to the [covid-19] insta-
+test and does not have any formal rights wh atsoever at this time. because of this i 
+insist you remove all menti on of [distributor] and refe rence covid [sic] testing 
+referring to our companies.   25. ballout knew, or was severe ly reckless in not knowing, that the statement in the 
+march 9, 2021 press release that  “[agent] owns distribution rights to a new covid-19 test 
+device, produced by [a canadian manufacturer] and [dis tributor]” was false or misleading at the 
+time it was made. also, based on the email th e march 17, 2021 email from the distributor 
+executive, ballout knew or was severely reckless in  not knowing that this statement in the march 
+9, 2021 press release was false or misleading at th e time it was made. yet, ballout never disclosed 
+any of the facts in the march 17, 2021 email quoted  above, and never disclosed the fact that the 
+distributor contacted enerkon de manding that it take down the fa lse and misleading statements 
+about agent’s supposed distribution rights.  case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 8 of 22 9 
+ 26. on may 11, 2021, enerkon issued another pr ess release—which ballout authored 
+and approved—that contained fa lse and misleading statements and omissions concerning a 
+fabricated order for the covid-19 test.  
+27. in relevant part, the may 11, 2021 press re lease stated that enerkon “announce[d] 
+today its first contingent order for the sars2 covid19 15 second ‘insta test’ as produced by 
+[manufacturer] with co sales via [distribut or] and [agent] (an [enerkon] wholly owned 
+division).” the release quoted ba llout as saying that the “‘orde r was placed by an ngo operating 
+in the dominican republic from a major medi cal foundation’” and was valued at “‘$28,000,000 
+per month’” or “‘$320 million annually.’” the rel ease further quoted ballout as saying that the 
+order was “‘a great start for the new company ac quisition of [agent] and its co sales partner 
+[distributor] in canada, the main di stributor with [ma nufacturer].’”   
+28. as an initial matter, th e may 11, 2021 press release was false or misleading, 
+because ballout knowingly or severely recklessly  failed to disclose the facts discussed in 
+paragraphs 22-25 above, including th at agent lacked distribution ri ghts to the covid 19 test, that 
+distributor sent him the marc h 17, 2021 email describe d in paragraph 24 a bove, or any of the 
+material facts stated in th at march 17, 2021 email.   
+29. further, the may 11, 2021 press release wa s false, because there was no multi-
+million-dollar order for the covid-19  test or, for that matter, any order at all.  on april 14, 2021, 
+zayed received an email at his email address fro m an email address associated with a purported 
+non-governmental organization operating in the dominican republic (the “ ngo ”). the email 
+attached a letter of interest (“ loi”), dated april 15, 2021, purportedl y from the director of the 
+ngo. the loi contained a purchase order for covid-19 tests matching the description in 
+enerkon’s may 11, 2021 press release.  case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 9 of 22 10 
+ 30. the loi showed that it had been copied to zayed and li sted a website purportedly 
+associated with the ngo. records from the webs ite’s domain hosts, however, show that this 
+website has not been linked to any entity cal led by the given name of the ngo. instead, these 
+records list zayed and fielding as the contacts for the ngo website and show fielding’s credit 
+card as the payment method. therefor e, the reasonable inference is that zayed fabricated the loi 
+and purchase order, then sent an  email from the ngo email address (t hat he controlled) to himself 
+with the fake loi and purchase order on april 14, 2021. zayed then forwarded the email and loi 
+he purportedly received from the ngo to the distributor.  
+31. after receiving the fake loi, the distributor never accepted the supposed order 
+referenced in the press release. because distributo r never accepted the orde r, the order could never 
+generate any revenue even if it wa s legitimate (which it was not).  
+32. ballout authored and authorized the pres s release, which referenced the fake 
+purchase order that he had no way of knowing about  other than through zayed, with whom he had 
+a longstanding relationship that pre-dated enerkon. ballout also had access and authority to use 
+fielding’s credit card that was used to pay for the website associated with the ngo. ballout knew 
+or was severely reckless in not knowing that the loi/purchase order was not  legitimate, that the 
+distributor did not accept the lo i/purchase order, and that the loi/purchase order could not 
+generate any revenue for agent. yet, neither ball out nor enerkon disclosed these material facts in 
+the may 11, 2021 press release or any subse quent press release or public filings.  
+iii. ballout made false and misleading statem ents and omissions in an enerkon press 
+release concerning a power plant that enerkon allegedly planned to build.  
+ 
+33. on may 3, 2021, enerkon issued a press release—which ballout authored and 
+approved—quoting ballout as stat ing, “[t]oday, [enerkon] is pleased to announce the signed 
+agreement to purchase of 122 acres [sic] of comm ercial land in pennsylvania turnpike area for case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 10 of 22 11 
+ the establishment of our planned 20 mw solar a nd hydrogen plant facility.” this press release 
+was false and misleading.   
+34. the “commercial land” referenced in the press release was actually zoned 
+residential, not commercial. according to the zoning office r for penn forest township, 
+pennsylvania, where the land was located, the to wnship never received any correspondence, re-
+zoning applications, or other documents from enerkon relating to any plan to  build an energy plant 
+there. enerkon also l acked the funds to build  a 20 mw solar and hydroge n plant. in addition, 
+enerkon never paid the landowner anyt hing, according to the landowner.  
+35. the may 3, 2021 press release also incl uded a picture purporting to depict 
+enerkon’s future solar and hydrogen plant. as presented and captione d, the picture gives the false 
+and misleading impression of an act ual plant that enerkon had plans to  build. in reality, the picture 
+in the press release depicts a pl ant located in japan that is one  of the world’s largest hydrogen-
+producing facilities—a fact that is not disclosed in the press re lease or any of enerkon’s other 
+public filings.  
+36. ballout knew or was severely reckless in  not knowing that the may 3, 2021 press 
+release contained the false and misleading statem ents described in paragraphs 33-35 above. he 
+also knowingly or severely recklessl y failed to disclose the material  facts described in paragraphs 
+33-35 above in the may 3, 2021 press release or any other public fili ng or statement.  
+iv. statements concerning enerkon’s financial condition 
+ 
+37. ballout caused enerkon to report on its ba lance sheet in its otc disclosures and 
+financial statements that enerkon had millions in  “cash.” for example, enerkon’s balance sheet 
+included in its june 30, 2018 otc disclosure re ported more than $65 million in “cash.”  case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 11 of 22 12 
+ 38. at the time of these statements and di sclosures, enerkon never had more than $100 
+cash in its bank account. ballout te stified that the cash balance de scribed above was deferred (or 
+unearned) revenue. but enerkon’s fi nancial statements and otc disc losures did not disclose that 
+the reported cash balance described above  was either deferred or unearned.  
+39. as further discussed below, fielding purportedly made a $180 ,000 loan to enerkon 
+pursuant to a convertible promissory note date d and signed by ballout, on behalf of enerkon, on 
+november 30, 2017. in 2021, fielding converted the note to enerkon stock, which he sold for a 
+profit of at least $407,000. however, certain of enerkon’s otc disclosures and financial 
+statements after the note was purportedly signe d by ballout in november 2017 do not disclose 
+fielding’s purported $180,000 loan or his conver tible promissory note. for example, enerkon’s 
+december 31, 2018 otc disclosure and its ju ne 30, 2019 quarterly otc disclosure—both of 
+which ballout signed and approved—do not disclose  the loan or note. in  enerkon’s september 30, 
+2019 quarterly otc disclosure—which ballo ut signed and approved—enerkon publicly 
+disclosed the purported loan and note.   
+40. ballout’s false and misleading statements  and omissions were material. they 
+created false and misleading impressions abou t enerkon’s financial condition and lucrative 
+business opportunities that di d not actually exist.  
+41. zayed knowingly or severely recklessly enga ged in one or more deceptive acts in 
+furtherance of ballout’s scheme to artificially inflate the price of enerkon’s stock. for example, 
+zayed knew, or was severely reckless in not know ing, that at least the march 9, 2021 and may 11, 
+2021 press releases were false a nd misleading. on march 17, 2021, a distributor  executive copied 
+zayed on the email to ballout referenced in pa ragraph 24 above stating that agent did not own 
+any distribution rights to the covid-19 test, as represented in the march 9, 2021 release. case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 12 of 22 13 
+ subsequently, as discussed in paragraphs 29-32 above, zayed created a website for a fictitious 
+ngo in the dominican republic, fabricated a bogus loi, and emailed the bogus loi to the 
+distributor in connection with the alleged purchase order tout ed in the may 11, 2021 release. 
+42. ballout’s fraudulent scheme, and false a nd misleading statements and omissions, 
+artificially inflated the pric e of enerkon’s stock. for example,  on march 8, 2021, enerkon’s stock 
+price closed at $0.87 per share; after the issuance of the false and misleading press release on 
+march 9, 2021, enerkon’s stock price closed at $0.93 per share, an increase of roughly 6.9%. 
+investors bought or sold enerkon securities during the course of  ballout’s fraudulent scheme, 
+misstatements, and omissions, and suffere d pecuniary harm as a result.   
+c. defendants schemed to convert a bogus prom issory note issued to fielding into 
+shares of enerkon and sell those shares at inflated prices.  
+43. between at least may 2019 and june 2021, in  coordination with ballout’s scheme 
+to pump enerkon’s stock price, defendants engage d in a fraudulent scheme  to: (1) create a bogus 
+promissory note purportedly issued by enerkon to fielding, (2) convert that bogus note to shares 
+of enerkon stock, and (3) sell those shares to a third party at inflated prices.  
+44. the bogus note was purportedly issued as  consideration for a $180,000 loan that 
+fielding allegedly made to enerkon on or before  november 30, 2017. the note, which identifies 
+fielding as the creditor and ener kon as the debtor, was purportedly si gned by ballout on behalf of 
+enerkon on november 30, 2017. the not e provided that enerkon was obl igated to repay fielding 
+the principal sum of $180,000 on or before n ovember 30, 2018. should enerkon fail to timely 
+repay fielding in full, th e note gave fielding the right to convert the note to a designated number 
+of shares of enerkon stock. 
+45. however, the note was created in furthera nce of the fraudulent scheme. fielding 
+did not loan enerkon $180,000 on or before novemb er 30, 2017 or at any other time. the note case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 13 of 22 14 
+ was also backdated. it appears that the note was actually created and signed on or about may 9, 
+2019, when fielding received an email from an “e nerkon international” em ail address attaching 
+the “final signed” promissory note. ballout  purportedly signed th e note as enerkon’s 
+“chairman” on november 30, 2017, but  in fact, he did not become  affiliated with enerkon until 
+february 2018—more than two months after the da te he purportedly signed the note. also, in 
+enerkon’s september 30, 2019 quar terly otc disclosure, enerkon publicly disclosed the 
+purported loan and note. but enerkon’s otc di sclosures prior to september 30, 2019 do not 
+disclose or mention the purported note and loan. that includes, for example, enerkon’s december 
+31, 2018 otc disclosure and its june 30, 2019 qu arterly otc disclosure, neither of which 
+disclosed the purported loan and note.   
+46. fielding subsequently took steps to conve rt the bogus note into  shares of enerkon 
+stock. on march 20, 2021, enerkon’s transfer agent r eceived documents relating to the conversion 
+of fielding’s bogus promissory note from fieldi ng’s email account. attached  to that email were 
+documents purporting to be evidence of the alleged $180,000 loan to enerkon, including (a) an 
+invoice enerkon purportedly issued to fieldi ng for three payments totaling $180,000, and 
+(b) fielding’s purported bank account statement, which listed three payments to enerkon in 
+october 2017 totaling $180,000, consistent with the enerkon invoice. howeve r, fielding’s bank 
+statement was fabricated. his actua l bank statement from this period does not reflect these three 
+payments. in truth, fielding never paid $180,000 to  or on behalf of enerkon in or around october 
+2017, and the statement that was sent to enerkon’s  transfer agent from fi elding’s email account 
+supporting his request to  obtain enerkon shares  was fabricated.  
+47. in the march 20, 2021 email to  enerkon’s transfer agen t from fielding’s email 
+account, a debt conversion notice an d seller’s representation letter we re attached, both of which case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 14 of 22 15 
+ fielding signed. the debt conversion notice falsel y represented that the bogus promissory note 
+was entered into in november 2017. the seller’s representation le tter falsely represented that 
+the note was entered into in november 2017 and th at fielding’s shares were acquired through a 
+loan to enerkon that, in fact, he never made.  
+48. ballout acted knowingly or with severe recklessness in furtherance of the bogus 
+note scheme. for example, ballout executed the b ogus promissory note as chairman of enerkon, 
+even though the note was backdated and, as of th e purported date of th e note (november 30, 2017), 
+he had no affiliation with enerkon or authority to  issue a promissory note on enerkon’s behalf. on 
+or around march 20, 2021, ballout em ailed enerkon’s transf er agent and atta ched a march 19, 
+2021 “issuance resolution” (which he signed as “c eo” of enerkon) falsely representing that the 
+promissory note was issued to fielding on november 30, 2017.  
+49. on or around may 11, 2021, ba llout emailed enerkon’s tran sfer agent and wrote in 
+the subject line: “final conversi on of note for fielding documents attached as per his request and 
+our permission.” ballout attached to that email to  the transfer agent, among other things, the bogus 
+note as well as an enerkon board resolution and debt conversion notice, both of which were 
+dated may 9, 2021, signed by ballout, and falsely represented that on november 30, 2017 the 
+bogus note was issued to fielding and that  enerkon incurred the underlying debt.  
+50. likewise, zayed acted knowingl y or with severe recklessn ess, in coordination with 
+fielding and ballout, in furthe rance of defendants’ bogus pro missory note scheme. fielding 
+testified that he believed zayed prepared at least some of the documents that fielding sent to 
+enerkon’s transfer agent in connection with the conversion of the bogus promissory note. 
+similarly, emails between zayed and fielding furt her indicate that zaye d prepared—or directed 
+lawyers or other professionals to prepare—ot her documents in connection with fielding’s case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 15 of 22 16 
+ conversion of the bogus promissory  note and sales of enerkon shar es, including but not limited to 
+legal opinions, affidavits, letter s, and agreements. zayed sent t hose documents to fielding for his 
+review, approval, and, when necessary, his signature.  
+51. as a further example of zayed’s involv ement, zayed emailed fielding on or around 
+january 10, 2021 to provide fielding with a status report on the conve rsion of the bogus  promissory 
+note to enerkon shares. zayed listed  a number of steps that were ei ther planned or completed to 
+effectuate the conversio n, including the issuance of an en erkon “corporate reso lution last year 
+dated to comply with the holding period” and docume nts that needed to be prepared and sent to 
+the transfer agent. he also advised fielding ab out the timing of when they should try to sell 
+fielding’s enerkon shares to maxi mize their return. following this upda te and list of next steps, 
+zayed told fielding that once they finished thei r current set of transactions, then “we will get 
+more free shares from ben [ballout] th en after that and do it again .…”  
+52. as a result of the documents sent to enerkon’s transfer agent discussed in 
+paragraphs 46-49 above, fielding successfully c onverted the bogus promissory note to at least 
+9,000,000 unrestricted shares of enerkon stock.   
+53. ballout and zayed then negotiated the sale  of fielding’s stock with a third-party 
+investor who purchased the shar es.  for example, on february 24, 2021, ballout emailed the third-
+party investor, thanking the investor  for the offer to fiel ding, but noting that he  “would be insulting 
+him [fielding]” if he shared it with fiel ding. on march 5, 2021, zayed—holding himself out as 
+an advisor to fielding and enerkon —emailed the third-party invest or and conveyed that fielding 
+wanted to wait to sell his enerkon stock until th ere were “better market conditions.” just days 
+later—on march 9, 2021— enerkon issued the pre ss release announcing the distribution rights 
+purportedly owned by agent, discus sed in paragraphs 22-25 above. case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 16 of 22 17 
+ 54. weeks later, between may 19, 2021 and may 27, 2021, fielding sold his enerkon 
+shares to that same third-party investor at prices inflated by the false and misleading statements 
+and omissions discussed in paragraphs 17- 42 above, receiving a to tal profit of $407,000.  
+55. before the sale, fielding agreed to provi de zayed a share of the sales proceeds. 
+true to his word, fielding sent zayed $96,000 from the sales proceeds following the sale. 
+56. fielding also entered into an agreement w ith a third-party invest or on or about june 
+7, 2021 to sell additional enerkon shares for $569,000, but it does not appear that he received 
+payment pursuant to this agreement.    
+vi. claims for relief 
+first claim for relief 
+violations of sections 17(a)(1) and (3) of the securities act [15 u.s.c. §§ 77q(a)(1) and (3)] 
+(against all defendants) 
+57. the sec re-alleges and incorporates paragra phs 1-56 above by reference as if fully 
+set forth hereunder.  
+58. by engaging in the acts and conduct allege d herein, and as alleged in paragraphs 
+13-56 above, defendants, directly or indirectly, in th e offer or sale of securities, by the use of the 
+means or instruments of transportation or communi cation in interstate commerce or by use of the 
+mails, have: 
+ employed a device, scheme, or artifice to defraud; and/or  
+ engaged in a transaction, practice, or course of business which operated or 
+would operate as a fraud or deceit upon the purchaser.  
+59. with regard to the violations of secti on 17(a)(1), defendants acted with scienter 
+and engaged in the referenced acts knowingly or with severe recklessness. with regard to the 
+violations of section 17(a)(3), defe ndants acted at least negligently.  case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 17 of 22 18 
+ 60. by reason of the foregoing, defendants ha ve violated, and unless enjoined will 
+continue to violate, se ction 17(a)(1) and (3) of the securities act [15 u. s.c. § 77q(a)(1) and (3)]. 
+second claim for relief 
+violations of section 17(a)(2) of the securities act [15 u.s.c. § 77q(a)(2)] 
+(against zayed and fielding) 
+61. the sec re-alleges and incorporates paragra phs 1-56 above by reference as if fully 
+set forth hereunder. 
+62. by engaging in the acts and conduct allege d herein, and as alleged in paragraphs 
+13-56 above, defendants zayed and fi elding, directly or indirectl y, in the offer or sale of 
+securities, by the use of the mean s or instruments of transportation or communication in interstate 
+commerce or by use of the mails, ha ve obtained money or property by  means of an untrue statement 
+of a material fact or an omission to state a materi al fact necessary in order to make the statements 
+made, in light of the circ umstances under which they were made, not misleading.  
+63. with regard to the violations of section 17(a)(2), zayed and fi elding acted at least 
+negligently.  
+64. by reason of the foregoing, defendants zayed and fielding have violated, and 
+unless enjoined will continue to violate, sect ion 17(a)(2) of the securities act [15 u.s.c. 
+§ 77q(a)(2)]. 
+third claim for relief 
+violations of section 10(b) of the exchange act [15 u.s.c. § 78j(b)]  
+and rules 10b-5(a) and (c) thereunder [17 c.f.r. §§ 240.10b-5(a) and (c)] 
+(against all defendants) 
+65. the sec re-alleges and incorporates paragra phs 1-56 above by reference as if fully 
+set forth hereunder. case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 18 of 22 19 
+ 66. by engaging in the acts and conduct allege d herein, and as alleged in paragraphs 
+13-56 above, defendants, directly or indirectly, singly or in concert with others, in connection with 
+the purchase or sale of securiti es, by the use of any means or instrumentality of interstate 
+commerce, or of the mails or of any faci lity of any national securities exchange: 
+ employed a device, scheme, or artifice to defraud; and/or  
+ engaged in acts, practices, or course s of business which operated, or would 
+operate, as a fraud or deceit upon any person. 
+67. with regard to the violations of s ection 10(b) and rules 10b-5(a) and (c), 
+defendants acted with scienter and engaged in  the referenced acts kno wingly or with severe  
+recklessness.   
+68. by reason of the foregoing, defendants ha ve violated, and unless enjoined will 
+continue to violate, section 10( b) of the exchange act [15 u.s.c. § 78j(b)] and rules 10b-5(a) 
+and (c) thereunder [17 c.f.r.  §§ 240.10b-5(a) and (c)].  
+fourth claim for relief 
+violations of section 10(b) of the exchange act [15 u.s.c. § 78j(b)]  
+and rule 10b-5(b) thereunder [17 c.f.r. § 240.10b-5(b)] 
+(against ballout and fielding) 
+69. the sec re-alleges and incorporates paragra phs 1-56 above by reference as if fully 
+set forth hereunder. 
+70. by engaging in the acts and conduct allege d herein, and as alleged in paragraphs 
+13-56 above, defendants ballout and fielding, directly or indirectl y, singly or in concert with 
+others, in connection with the purchase or sale of securiti es, by the use of  any means or 
+instrumentality of interstate commerce, or of the mails or of any facility of any national securities 
+exchange made untrue statements of  material facts or omitted to st ate material facts necessary in case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 19 of 22 20 
+ order to make the statements ma de, in light of the circumstance s under which they were made, not 
+misleading.   
+71. with regard to the violations of sec tion 10(b) and rule 1 0b-5(b), ballout and 
+fielding acted with scienter and engaged in  the referenced acts kno wingly or with severe  
+recklessness. 
+72. by reason of the foregoing, defendants ba llout and fielding have violated, and 
+unless enjoined will continue to  violate, section 10(b) of the exchange act [15 u.s.c. § 78j(b)] 
+and rule 10b-5(b) thereunder [17 c.f.r. § 240.10b-5(b)].  
+vii. prayer for relief 
+73. wherefore, the sec respectfully requests that this court enter a final 
+judgment:  
+ permanently restraining and enjoining ballout from violating, directly or 
+indirectly, sections 17(a)(1) and (3) of the securities act and s ection 10(b) of the exchange act 
+and rule 10b-5 thereunder; 
+ permanently restraining and enjoining zayed from violat ing, directly or 
+indirectly, section 17(a) of the securities act and section 10(b) of the exchange act and rules 
+10b-5(a) and (c) thereunder; 
+ permanently restraining and enjoining fielding from violat ing, directly or 
+indirectly, section 17(a) of the securities act and section 10(b) of the exchange act and rule 
+10b-5 thereunder; 
+ permanently restraining and enjoining ballout, pursuant to section 20(e) of 
+the securities act and section 21(d)(2) of the ex change act, from acting or  serving as an officer case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 20 of 22 21 
+ or director of any issuer that has a class of securities register ed pursuant to section 12 of the 
+exchange act or that is required to file reports pursua nt to section 15(d) of  the exchange act; 
+ permanently restraining and enjoining defendants, pursuant to section 
+20(g)(1) of the securities act [15 u.s.c. § 77t (g)(1)] and section 21(d)(6)(a) of the exchange 
+act [15 u.s.c. § 78u(d)(6)(a)], from participa ting in an offering of penny stock, including 
+engaging in activities with a broke r, dealer, or issuer for purpose s of issuing, trad ing, or inducing 
+or attempting to induce the purchase or sale of any penny stock. a penny stock is any equity 
+security that has a price of less than five dol lars, except as provided in rule 3a51-1 under the 
+exchange act [17 c.f.r. § 240.3a51-1]; 
+ ordering fielding and zayed to disgorge  all ill-gotten gains they received 
+as a result of the violations alleged herein, to gether with pre-judgment interest thereon, pursuant 
+to the court’s equitable powers and sections 21(d )(3), 21(d)(5), and 21(d)(7) of the exchange act; 
+ ordering defendants to pay civil penalties pursuant to section 20( d) of the 
+securities act and section 21(d)(3 ) of the exchange act; and  
+ granting such other and further relief as this court may deem appropriate, 
+just, equitable, and/or necessary.  
+viii. jury demand 
+  
+74. the sec demands trial by jury in this action on all issues so triable. case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 21 of 22 22 
+ dated:  september 23, 2024   respectfully submitted, 
+ 
+/s/ patrick disbennett_________  
+      p a t r i c k  d i s b e n n e t t  
+s.d. fla. special bar id a5503234 securities and exchange commission 801 cherry street, suite 1900 fort worth, texas 76102 tel: (817) 266-9633 (disbennett) 
+disbennettpa@sec.gov  
+ attorney for plaintiff  
+ 
+ case 9:24-cv-81170-xxxx   document 1   entered on flsd docket 09/23/2024   page 22 of 22

@@ -65,6 +65,9 @@ class SECComplaintParser():
             if save_text:
                 if save_directory is None:
                     raise RuntimeError("Need to specify a save directory")
+                
+                if not os.path.exists(save_directory):
+                    os.makedirs(save_directory)
 
                 with open(os.path.join(save_directory, filename.split(".")[0] + ".txt"), "w", encoding="utf-8") as save_file:
 
@@ -83,7 +86,8 @@ class SECComplaintParser():
         returns:
             dict(str: str): dict matching pdf name to pdf text
         """
-
+        
+        os.makedirs(directory_path, exist_ok=True)
         directory_texts = {}
 
         for filename in tqdm(os.listdir(directory_path)):
