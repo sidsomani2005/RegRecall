@@ -20,15 +20,7 @@ def wait_for_downloads(download_directory, timeout=300):
 
 #check for popup
 def check_and_close_popup(driver):
-    # try:
-    #     decline_button = driver.find_element(By.CLASS_NAME, "fsrDeclineButton")
-    #     if decline_button.is_displayed():  # Check if the button is displayed
-    #         decline_button.click()
-    #         print("Declined the popup invitation.")
-    # except NoSuchElementException:
-    #     pass
     try:
-        # Close the feedback survey if it's visible
         decline_button = driver.find_element(By.CLASS_NAME, "fsrDeclineButton")
         if decline_button.is_displayed():
             decline_button.click()
@@ -38,7 +30,6 @@ def check_and_close_popup(driver):
     except ElementClickInterceptedException:
         print("Decline button found but click was intercepted.")
 
-    # Close the full screen survey overlay if it's blocking the page
     try:
         backdrop = driver.find_element(By.ID, "fsrFullScreenContainer")
         if backdrop.is_displayed():
