@@ -79,20 +79,29 @@ class SECComplaintParser():
     def load_pdf_texts(directory_path: str) -> dict[str: str]:
         """
         Takes in a directory name, reads in text of all txt files in directory
-
         args:
             directory_path (str): path to directory to read in
-
         returns:
             dict(str: str): dict matching pdf name to pdf text
         """
         
+        # os.makedirs(directory_path, exist_ok=True)
+        # directory_texts = {}
+
+        # for filename in tqdm(os.listdir(directory_path)):
+        #     with open(os.path.join(directory_path, filename), encoding="utf-8") as txt_file:
+        #         directory_texts[filename.split(".")[0]] = txt_file.read()
+
+        # return directory_texts
         os.makedirs(directory_path, exist_ok=True)
         directory_texts = {}
 
         for filename in tqdm(os.listdir(directory_path)):
-            with open(os.path.join(directory_path, filename), encoding="utf-8") as txt_file:
-                directory_texts[filename.split(".")[0]] = txt_file.read()
+            if filename.endswith(".txt"):
+                file_path = os.path.join(directory_path, filename)
+                with open(file_path, encoding="utf-8") as txt_file:
+                    key = os.path.splitext(filename)[0]  # Removes .txt
+                    directory_texts[key] = txt_file.read()
 
         return directory_texts
 
