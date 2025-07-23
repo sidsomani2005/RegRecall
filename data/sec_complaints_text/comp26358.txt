@@ -1,0 +1,513 @@
+united states district court 
+northern district of georgia 
+atlanta division 
+securities and exchange 
+commission, 
+plaintiff,
+v. civil action file no. 1:25-cv- 
+edwin brant frost iv and first 
+liberty building & loan, llc, 
+defendants, and 
+first liberty capital partners 
+llc, first national investments 
+llc, myhealthai capital llc, the legacy advisory group inc., 
+and the liberty group llc, 
+relief defendants.  
+complaint 
+plai
+ntiff securities a nd exchange commi ssion (“commission”) alleges as 
+follows: 
+summary 
+1. between 2014 and june 2025, de fendants edwin brant frost iv
+(“frost”), and first l iberty building & loan, llc (“first liberty”) (together, 
+“defendants”), raised at l east $140 million from approxim ately 300 investors through case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 1 of 27 2 
+ the sale of loan participation agreements  and promissory notes which offered annual 
+returns of 8% to 18%. 
+2. defendants represente d to investors that their funds would be used to 
+make short-term small business loans at relatively high interest rates (“bridge 
+loans”). 
+3. defendants represented to investors th at these bridge loans and interest 
+thereon would be repaid by borrowers via small business administration (“sba”) or 
+other commercial loans, which defendant s claimed they wo uld help broker. 
+4. initially, defendants solicited and sold  these investments to “friends and 
+family” in the form of eith er loan participat ion agreements  or promissory notes.  
+5. these agreements and notes offered investors the oppor tunity to make 
+an investment that wo uld be pooled with othe r investor funds and th en lent to specific 
+borrowers. 
+6. beginning in 2024, defendants started a more widespread public 
+solicitation of potential inve stors, advertising the opportuni ty to invest in promissory 
+notes via radio advertising, internet podcasts, and the first liberty website.  
+7. all the investments, whether offered as a loan participation agreement 
+or a promissory note , were purportedly to  fund bridge loans. 
+8. defendants, however, di d not use investor f unds as represented. case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 2 of 27 3 
+ 9. while some investor f unds were used to make  bridge loans, those 
+loans did not perform as represented.   
+10. of the bridge loans de fendants actually made, only a few have been 
+paid in full. 
+11. most bridge loans ha ve ultimately defau lted and ceased making 
+interest payments. 
+12. defendants, however, have continue d to make interest payments to 
+investors on the defaulted loans.   
+13. since at least 2021 defe ndants have had to use funds raised from new 
+investors to make these interest payments. 
+14. most, if not all, of the funds raised through  the publicly advertised 
+offering were either misa ppropriated or used to make  ponzi-style payments to 
+existing investors. 
+15. for example, frost used investor fu nds to make payments to himself 
+and his family members in  excess of $5 million. 
+16. frost further used investor funds to pay for the operati ons of affiliated 
+companies that he controlled, first libe rty capital partners llc (“flcp”), first 
+national investments llc, myhealthai capital llc, th e legacy advisory group 
+inc., and the liberty group llc (“relief defendants”). case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 3 of 27 4 
+ 17. the relief defendants r eceived proceeds from this scheme without 
+providing any value in return and were thus unjustly enriched thereby. 
+18. as recently as may 24, 2025, frost withdrew $100 ,000 investor funds 
+for his personal use. 
+19. in addition to failing  to use investor f unds as represented, i.e., to make 
+bridge loans, defendants made other misrepresentations when soliciting new 
+investments. 
+20. specifically, frost knowi ngly misrepresented the success of the bridge 
+loan program to investors. 
+21. frost told some potential investors that first liberty had only ever had 
+one bridge loan default. 
+22. frost told other potential  investors that very fe w loans had defaulted. 
+23. in reality, a significant portion of the bridge loans issued by first 
+liberty were in default when frost made these statements. 
+violations 
+24. by the conduct described herein, de fendants have engaged and, unless 
+restrained and enjoined by this court, will continue to engage in acts and practices 
+that constitute and will const itute violations of section 17(a) of the securities act of 
+1933 (“securities act”) [15 u.s.c. § 77q(a)] and section 10(b) of the securities case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 4 of 27 5 
+ exchange act of 1934 (“ex change act”) [15 u.s.c. § 78j(b)] and rule 10b-5 
+promulgated thereunder [17 c.f.r. § 240.10b-5]. 
+jurisdiction and venue  
+25. the commission brings this action pur suant to the authority conferred 
+upon it by sections 20(b) and 20(d) of the securities act [15 u.s.c. §§ 77t(b) and 
+77t(d)] and section 21(d) of the exch ange act [15 u.s.c. § 78u(d)].  
+26. this court has jurisdiction over this action pursuant to section 22(a) 
+of the securities act [15 u.s.c. § 77v(a)] and section 27(a) of the exchange act 
+[15 u.s.c. § 78aa(a)].   
+27. in connection with the transactions , acts, practices, and courses of 
+business described in this complaint, de fendants, directly a nd indirectly, have 
+made use of the means or instrumentalitie s of interstate commerce, of the mails, 
+and/or of the means and instruments of transportation or communication in 
+interstate commerce. 
+28. venue is proper in this district pursuant to section 22(a) of the 
+securities act [15 u.s.c. § 77v(a)], secti on 27(a) of the exchange act [15 u.s.c. 
+§ 78aa(a)] and 28 u.s.c. § 1391 because defe ndants reside in this district and 
+offered and sold securities in this district. case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 5 of 27 6 
+ facts  
+defendants 
+29. edwin brant frost iv , age 67, lives in newnan , georgia.  frost is 
+the owner and president of first liberty.  
+30. first liberty building & loan, llc  was formed by frost in 2005 
+in georgia with its principal place of busin ess in newnan, georgia.  first liberty 
+recently ceased operations, had fewer than  ten employees, and claimed to serve 
+“main street business needs with wall st reet creativity,” by providing loans to 
+customers primarily through the sba lo an program and mortgage brokerage 
+services.  
+relief defendants 
+31. first liberty capital partners llc is a georgia limited liability 
+company that was formed in may 2005 with  its principal place of business in 
+newnan, georgia.  this entity  was formed a month after formation of first liberty 
+with the same post office address for the principal place of business.  flcp was 
+the signatory on most of the loan particip ation agreements and promissory notes.  
+additionally, defendants transf erred investor money to flcp. 
+32. first national investments llc  is a georgia limited liability 
+company that was formed in april 2000 w ith its principal place of business in 
+newnan, georgia.  this en tity was formed with the same post office address for case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 6 of 27 7 
+ the principal place of business as first li berty.  defendants transferred investor 
+funds to first national investments llc.  
+33. myhealthai capital llc  is a georgia limited liability company 
+formed in april 2025 with its principal place of business in newnan, georgia.  
+this entity was formed to house hea lth artificial intelligence investment 
+transactions from first liberty investors.  this entity was formed with the same 
+post office address as first liberty.  de fendants transferred investor funds to 
+myhealthai capital llc. 
+34. the legacy advisory group inc . is a georgia corporation that was 
+incorporated in november 2024 with its principal place of business in tucker, 
+georgia.  this corporation filed a notice of intent to dissolve on june 18, 2025.  
+frost is the ceo, cfo, and secretary of  this entity.  defendants transferred 
+investor funds to the leg acy advisory group inc.  
+35. the liberty group llc  is a georgia limited liability company 
+formed in july 2015 with its principal plac e of business in newnan, georgia.  this 
+entity was formed with the same post o ffice address as the principal place of 
+business as first liberty.  defendants tr ansferred investor funds to the liberty 
+group llc. 
+ 
+ case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 7 of 27 8 
+ first liberty’s investment scheme 
+36. starting in 2014, defendants be gan raising capital via loan 
+participation agreements offere d to “friends and family.” 
+37. “friends and family” we re later offered the opportunity to invest in 
+promissory notes. 
+38. in 2024, defendants expanded thei r capital raise by offering and 
+selling promissory notes to the public via radio, internet program advertisements, 
+and first liberty’s website. 
+39. defendants told investors in both investment programs that the 
+invested funds purportedly were to be used to provide bridge loans to first 
+liberty customers who were trying to ob tain long-term loans from the sba.  
+40. in total, defendants raised at le ast $140 million from the sale of loan 
+participation agreements and promissory  notes to at least 300 investors.  
+41. during the “friends and family” phase of defenda nts’ scheme, 
+defendants solicited invest ors to participate in specific bridge loans. 
+42. for example, frost would provide a potential investor with the total 
+loan amount, the anticipated closing date of the loan, and the date upon which the 
+loan would mature. case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 8 of 27 9 
+ 43. additionally, frost would provide  the potential investor with 
+information about the supposed borrower, th e use of the funds,  the existence of 
+guarantees, and the exit options for the loan. 
+44. investor funds were pooled together to reach the total amount 
+purportedly needed to f und a specific bridge loan. 
+45. the terms of the publicly advertis ed note program differed from the 
+“friends and family” program. 
+46. while the publicly advertised note program offered potential investors 
+the opportunity to provide funding for bridge loans and investor loans were pooled together, investors did not participate in specific loans. 
+47. first liberty’s website stated that the promissory notes allowed “first 
+liberty to provide small businesses with  short term bridge loans and other 
+commercial capital.” 
+48. as recently as may 2025, first libe rty’s website stated that it had 
+been providing commercial bridge lending  since 2013 and that first liberty had 
+“funded over $100 million in bridge loans since 2013.” 
+49. both the “friends and family” a nd publicly advertised investments 
+generally had a 12-month term (with rollove r capability) and paid interest monthly.  
+50. the “friends and family” agreements paid a rate of return between 14-
+18%, with investors receiving the same inte rest rate regardless of investment size. case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 9 of 27 10 
+ 51. the publicly offered notes paid betw een 8-13%, with the interest rate 
+paid increasing based on the size of the inve stment, and investment tiers starting at 
+$25,000.  
+52. initially, in the “friends and family” program, first liberty was to be 
+compensated from origination fee and other related fees that borrowers paid to 
+obtain the bridge loans. 
+53. at that time, first liberty charge d 18% interest on the bridge loans 
+and paid 18% interest on the lo an participation agreements.  
+54.  over time, defendants began offeri ng loan participation agreements 
+at 16% interest but continued charging bridge loan borrowers 18% interest on 
+their loans. 
+55. the loan participation agreements sp ecifically state that all the fees 
+paid on the loan belong to first libe rty and that first liberty would be 
+compensated by the differentia l between the per annum in terest rate paid by the 
+borrower to first liberty and the per annum in terest rate that first liberty paid to 
+the investors. 
+56. some promissory notes contain a similar provision, while others are 
+silent on the issue of defendants’ compensation. 
+57.  frost, however, orally represente d to the publicly advertised note 
+investors that he and first liberty did not take any fees  out of the investor funds. case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 10 of 27 11 
+ 58. the difference (or spread) between the interest rates paid by the 
+borrowers on the bridge loans and the inte rest rates first liberty owed investors 
+in the “friends and family ” program was typically 2%. 
+59. the promissory notes issued in the publicly advertised program do not 
+identify the spread because those notes  were not tied to specific borrowers. 
+60. largely due to the numerous defaults in the bridge loans, the spread 
+and fees collected from borrowers did not generate enough re venue to pay the 
+interest owed to investors.  
+the ponzi scheme and misrep resentations to investors 
+61. frost told investors that first libe rty used 100% of the proceeds from 
+the sales of loan participation agreements  and promissory notes to fund the bridge 
+loans. 
+62. frost also told investors that they would be repaid from the repayment 
+of the bridge loans and interest thereon. 
+63. these representations were false. 
+64. beginning no later than 2021, first liberty began operating as a ponzi 
+scheme. 
+65. first liberty experienced a deficit each year from 2021 thru may 30, 
+2025. case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 11 of 27 12 
+ 66. by the end of 2019, if all outsta nding loans were making interest 
+payments, the most that first liberty could generate in revenue based on the 
+spread between the interest paid by borrowe rs on the bridge loans and the interest 
+paid to investors was a pproximately $180,000.   
+67. in 2019, defendants incurred $1 18,000 in credit card expenses, 
+leaving just $65,000 to pay all other operating expenses. 
+68. in 2020, defendants incurred $2 34,000 in credit card expenses, 
+leaving just under $250,000 to pa y all other operating expenses. 
+69. by 2021, defendants’ payroll expense exceeded the maximum 
+revenue that defendants coul d generate from the intere st payments on the bridge 
+loans by almost $200,000.   
+70. in 2021, defendants also incurred  $313,000 in credit cared expenses, 
+which increased the de ficit to over $500,000. 
+71. and by 2022, defendants were not  generating the maximum revenue 
+from the bridge loans.   
+72. in august 2022, a bridge loan bor rower with $6.2 million in loans 
+filed bankruptcy and stopped making in terest payments on its loans. 
+73. nevertheless, in december 2022 , defendants raised $6.5 million 
+purportedly to make anothe r loan to this borrower. case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 12 of 27 13 
+ 74. defendants’ potential revenue each year from 2019 to present 
+calculated using the maximum intere st generated by the bridge loans1 and 
+deducting only payroll a nd credit card expenses2 is set forth below: 
+ 
+75. the actual deficit for each year is substantially larger than what is 
+reflected in the chart in paragraph 74 b ecause the bridge loans did not generate 
+the maximum revenue. 
+76. instead, most of the bridge loan s defaulted and ceased making 
+interest payments.  
+77. as of 2021, approximately 80% of in terest and principal payments to 
+investors were sourced from new investor funds, and not from bridge loan interest 
+payments or principal repayments. 
+ 
+1  the analysis does  not include any inte rest payments from  the bridge loan 
+borrower who filed ba nkruptcy in august 2022, but does  include the interest 
+payments owed to invest ors for the bridge loans made to that borrower. 
+2  first liberty incurred other expenses th at are not included in this calculation. 
+case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 13 of 27 14 
+ 78. by at least 2021, frost knew that ma ny bridge loans were in default, 
+and that many borrowers were  not paying the interest due on their bridge loans. 
+79. nevertheless, first liberty continue d to make interest payments to 
+investors. 
+80. when soliciting new investors, frost misrepresented the default rate 
+of the bridge loans to investors. 
+81. specifically, in connection with selling both the “friends and family” 
+investments and the publicly advertised not es, frost told some investors, including 
+one as recently as may 2025, that first li berty had only ever had one bridge loan 
+default. 
+82. as recently as may 2025, when selli ng an investment, frost told an 
+investor that when the one bridge loan de faulted, first liberty paid investors back 
+with its own funds.   
+83. when selling to other investors, frost represented that only a few 
+bridge loans had defaulted. 
+84. in reality, the default rates were  significantly higher.  indeed, 
+potentially 90% of the bridge lo ans are currently in default. 
+85. frost’s representations regarding th e success of first liberty’s bridge 
+loan program were material to investor s when deciding to invest with first 
+liberty. case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 14 of 27 15 
+ 86. frost also misled investors about th e security of th e bridge loans. 
+87. when selling investments, frost told investors that the borrowers to 
+whom first liberty made bridge loan s had already received approval for sba 
+loans and that the bridge loan was only needed to provide funds while the sba 
+loan process was completed. 
+88. in fact, few, if any, bridge loan borrowers had received preapproval 
+for an sba loan at the time the bridge lo an was funded, and frost knew that few 
+bridge loans were ever converted to sba loans. 
+89. frost also misled investors about  the security of their existing 
+investments to obtain additional i nvestments from those investors. 
+90. for example, in 2019, an individua l invested $500,000 in connection 
+with a $3.4 million bridge loan to the br idge loan borrower who filed bankruptcy 
+in august 2022. 
+91. the $3.4 million bridge loan clos ed in october 2019 and was to 
+mature in may 2021 (“first loan”). 
+92. subsequently, first liberty made a second bridge loan to the same 
+borrower in november 2019 for $900,000 th at was to mature in june 2021 
+(“second loan”). case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 15 of 27 16 
+ 93. in may 2021, after the first loan matured but the investor was not 
+repaid, first liberty made a third loan  to the same borrower for $1.5 million 
+(“third loan”). 
+94. in september 2021, first liberty ma de a fourth loan to the same 
+borrower for $400,000 (“fourth loan”). 
+95. in august 2022, the borrower filed for bankruptcy and ceased making 
+interest payments on the bridge loans issued by first liberty. 
+96. in december 2022, after the ba nkruptcy filing, first liberty 
+purportedly made a fifth loan to the same borrower for $6.5 million. 
+97. in may 2024, frost solicited the investor in the first loan for a new 
+investment. 
+98. frost offered the investor the opport unity to participate with other 
+investors in a loan that would be used to help fund a company that was developing 
+a healthcare app. 
+99. in response, the investor inquired a bout the status of repayment of his 
+$500,000 investment in the first loan. 
+100. frost told the investor that the firs t loan was scheduled to pay off in 
+june and that he was “very confident that it will.” case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 16 of 27 17 
+ 101. frost also told the investor that  the borrower was “up 20% yoy [year 
+over year] in noi [net operating income ], and our lending partner who is 
+refinancing this for us is very eager to get it done.” 
+102. relying on frost’s representations about the status of his $500,000 
+investment, the investor made  an investment of $200,000 in a loan to first liberty. 
+103. frost knew his statements to the i nvestor about the first loan were 
+false when he made them. 
+104. frost knew by october 2022 that th e bridge loan borrower was in 
+bankruptcy. 
+105. on october 28, 2022, first liberty filed a claim against the borrower 
+in bankruptcy. 
+106. the bankruptcy claim filed by first liberty identified only the second 
+and third loan. 
+107. first liberty did not make a claim for the $3.4 million first loan. 
+108. the bankruptcy court ultimately approved an unsecured claim for 
+first liberty of $375,000.  no payment has been made on first liberty’s claim. 
+109. until first liberty shuttered opera tions in june 2025, the investor 
+received monthly interest payments on his $500,000 investment in the first loan. 
+ 
+ case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 17 of 27 18 
+ defendants fail to disclose the significant default rates 
+110. each loan participation agreement contained a provision stating that 
+first liberty would provide notice to the i nvestor if first liberty obtained “actual 
+notice or knowledge or any loss of property or change in financial condition or any 
+obligor under the loan which will ha ve a material adverse effect upon 
+continuation of payments under the lo an or its repayment on default.” 
+111. defendants failed to provide invest ors with notice of changes in 
+borrowers’ financial conditio ns despite knowing that ma ny bridge loan borrowers 
+had defaulted and that the default would have a material adverse effect on the 
+continuation of interest payments and the repayment of the principal amount. 
+112. by at least 2021, defendants issued  loan participation agreements 
+containing this notice provision, knowing that they did not intend to comply with 
+it. 
+113. the loan participation agreements also contained a provision requiring 
+the investor’s consent before first libe rty could make additional loans to the 
+borrower. 
+114. defendant failed to seek investor  consent before making additional 
+loans to existing bridge loan borrowers. case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 18 of 27 19 
+ 115. by at least 2021, defendants issued  loan participation agreements 
+containing the consent provision knowing th at they did not intend to comply with 
+it. 
+116. as recently as june 2025, frost was soliciting investments in a $3.5 
+million loan and telling investors that firs t liberty’s cashflow and resources were 
+sufficient to repay the loan if necessary. 
+117. this statement was false. 
+118. as of may 30, 2025, the balance in first liberty’s accounts was only 
+$2,668,045.06. defendants misappropriate substantial investor funds 
+119. during defendants’ scheme, fros t misappropriated a significant 
+amount of investor assets. 
+120. between 2019 and 2024, frost spent over $230,000 in investor funds 
+to rent a vacation home for hi s family in kennebunkport, maine. 
+121. between 2019 and 2025, frost used over $140,000 in investor funds 
+to purchase jewelry. 
+122. additionally, frost used investor  funds to purchase a $20,800 patek 
+philippe watch.  
+123. between 2022 and 2024, frost paid ove r $335,000 in investor funds to 
+a rare coin dealer. case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 19 of 27 20 
+ 124. frost also used investor funds to make over $2.4 million in payments 
+to credit cards issued to him and his business entities. 
+125. frost has used investor funds to make more than $570,000 in political 
+donations. 
+126. frost has transferred more than $5 m illion of investor funds to himself 
+and members of his family. 
+127. given that first liberty was operati ng at a loss, frost was not entitled 
+to these funds according to what he to ld investors as to how he would be 
+compensated. 
+128. defendants also directed investor funds to various entities related to 
+first liberty. 
+129. specifically, defendants directed  over $630,000 to relief defendant 
+flcp. 
+130. defendants directed over $1.1 m illion to relief defendant first 
+national investments llc. 
+131. defendants directed over $460,000 to relief defendant myhealthai 
+capital llc. 
+132. defendants directed over $198,000 to relief defendant the legacy 
+advisory group inc. case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 20 of 27 21 
+ 133. defendants directed $8.3 million to  relief defendant the liberty 
+group llc. 
+134. in the last eight months, frost has been dissipating assets at a rapid 
+pace.  
+135. from october 2024 through april 2025, frost wrote checks from 
+company accounts to himself totaling $1,324,000. 
+136. significantly, nine days after bei ng interviewed by commission staff, 
+frost withdrew $100,000 from company a ccounts containing investor funds.  
+137. very recently, frost also has been making large purchases at 
+companies that sell high value a nd easily concealable assets.  
+138. between december 2024 and may 2025, frost wrote checks to a local 
+jeweler totaling $40,570.  
+139. in november and december 2024,  frost wrote checks from company 
+accounts totaling $210,875 to a business that specializes in selling gold coins.  
+count i 
+ 
+violations of section 17(a)(1) of the securities act  
+[15 u.s.c. § 77q(a)(1)] 
+ 
+140. the commission realleges para graphs 1 through 139 above. 
+141. between 2014 and june 2025, defendants, in the offer and sale of the 
+securities described here in, by the use of  means and instruments of transpor tation and case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 21 of 27 22 
+ communication in interstate commerce an d by use of the ma ils, directly and 
+indirectly, employed devices,  schemes and artifices to de fraud purchasers of such 
+securities, all as more pa rticularly described above. 
+142. defendants knowingly, in tentionally, and/or reck lessly engaged in the 
+aforementioned devices, schemes and artifices to defraud. 
+143. by reason of the foregoi ng, defendants, directly  and indirectly, have 
+violated and, unless enjoin ed, will continue to violat e section 17(a)(1) of the 
+securities act [15 u. s.c. § 77q(a)(1)]. 
+count ii 
+ 
+violations of sections 17(a)(2) and (a)(3) of the securities act 
+[15 u.s.c. §§ 77q(a)(2) and (a)(3)] 
+ 
+144. paragraphs 1 through 139 are hereby realleged and are incorporated 
+by reference. 
+145. between 2014 and june 2025, defendant s, in the offer and sale of 
+securities described herein, by use of mean s and instruments of transportation and 
+communication in interstate commerce a nd by use of the mails, directly and 
+indirectly: 
+a. obtained money and property by means of untrue statements of 
+material fact and omissions to stat e material facts necessary in order case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 22 of 27 23 
+ to make the statements made, in  light of the circumstances under 
+which they were made, not misleading; and 
+b. engaged in transactions, prac tices and courses of business 
+which would and did operate as a fraud and deceit upon the 
+purchasers of such securities, all as more particularly described above. 
+146. defendants, directly and indirectly, have violated and, unless enjoined, 
+will continue to vi olate sections 17(a)(2 ) and 17(a)(3) of the securities act [15 
+u.s.c. §§ 77q(a)(2 ) and 77q(a)(3)]. 
+count iii 
+ 
+violations of section 10(b) and ru le 10b-5 of the exchange act 
+[15 u.s.c. § 78j(b) and 17 c.f.r. § 240.10b-5] 
+ 
+147. the commission realleges para graphs 1 through 139 above. 
+148. between 2014 and june 2025, defendants, in connection with the 
+purchase and sale of securi ties described here in, by the use of  the means and 
+instrumentalities of inters tate commerce and by use of the ma ils, directly and 
+indirectly:   a. employed devices, scheme s, and artifices to defraud; 
+ b. made untrue statem ents of material fact s and omitted to state 
+material facts necessary in order to make the statements  made, in light 
+of the circumstances und er which they were made, not misleading; and case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 23 of 27 24 
+  c. engaged in acts, practices, and courses of  business which would 
+and did operate as a fraud and d eceit upon the purch asers of such 
+securities, 
+all as more particul arly described above. 
+149. defendants knowingly, in tentionally, and/or reck lessly engaged in the 
+aforementioned devices, schemes and artifices to defraud, made untrue statements of material facts and omitted to state material facts, and engaged in fraudulent acts, 
+practices and courses of business.   
+150. by reason of the foregoi ng, defendants, directly  and indirectly, have 
+violated and, unless en joined, will continue to violate section 10(b) of the exchange 
+act [15 u.s.c. § 78j(b)] and rule 10b- 5 thereunder [17 c. f.r. § 240.10b-5].  
+prayer for relief 
+ wherefore, the commission respectfully prays for: 
+i. 
+ permanent injunctions enjoining defe ndants and their officers, agents, 
+servants, employees, and attorneys from vi olating, directly or indirectly, section 
+17(a) of the securitie s act [15 u.s.c. § 77q(a)], and section 10(b) of  the exchange 
+act [15 u.s.c. § 78j(b)] and rule 10b- 5 thereunder [17 c. f.r. § 240.10b-5]. case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 24 of 27 25 
+ ii. 
+ a permanent injunction enjoining defendan t frost from direct ly or indirectly 
+participating in the issuance, purchase, offer, or sale of any security, provided that 
+such injunction shall not prevent defendant frost fr om purchasing or selling 
+securities listed on a natio nal securities exchange fo r his own personal accounts. 
+iii. 
+ an order requiring an acc ounting by defendants and relief defendants of the 
+use of proceeds of the fraudulent conduct describe d in this complaint and the 
+disgorgement by defendants and relief defendants of all ill-gotten gains or unjust 
+enrichment with prejudgment in terest, to effect the remedial purpos es of the federal 
+securities laws. 
+iv. 
+ an order pursuant to section 20(d) of  the securities act [1 5 u.s.c. § 77t(d)] 
+and section 21(d)(3) of th e exchange act [15 u.s.c.  § 78u(d)(3)] imposing civil 
+penalties against defendants.  
+v. 
+an order freezing the assets of de fendants and relief defendants pending 
+further order of the court. 
+ 
+ case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 25 of 27 26 
+ vi. 
+an order appointing a receiver over defendant first liberty and relief 
+defendants. 
+vii. 
+an order preventing defendants and re lief defendants from destroying or 
+concealing documents or other evidence until further order of this court and 
+expediting discovery. 
+viii. 
+ such other and further relief as this  court may deem just, equitable, and 
+appropriate in connection with the enfor cement of the federal securities laws and 
+for the protection of investors. 
+ 
+respectfully submitted this  10th day of july, 2025, 
+/s/ kristin w. murnahan  
+m. graham loomis 
+regional trial counsel 
+united states securities & exchange commission 950 e. paces ferry ro ad ne, suite 900 
+atlanta, ga 30326 
+404-842-7622 georgia bar no. 457868 
+loomism@sec.gov 
+ 
+kristin w. murnahan senior trial counsel 
+united states securities & exchange commission case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 26 of 27 27 
+ 950 e. paces ferry ro ad ne, suite 900 
+atlanta, ga 30326 
+404-842-7655 
+georgia bar no. 759054   murnahank@sec.gov  
+ 
+counsel for plaintiff case 1:25-cv-03826-mlb     document 1     filed 07/10/25     page 27 of 27
