@@ -129,7 +129,9 @@ class SECComplaintParser():
         '''
         Clean the text by removing all characters except alphanumeric
         '''
-        cleaned_string = re.sub(r'[^a-zA-Z0-9]', '', string_to_clean)
+        # cleaned_string = re.sub(r'[^a-zA-Z0-9]', '', string_to_clean)
+        # return cleaned_string
+        cleaned_string = re.sub(r'[^a-zA-Z0-9 ]', '', string_to_clean)
         return cleaned_string
     
     @staticmethod
