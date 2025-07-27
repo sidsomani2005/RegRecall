@@ -197,3 +197,46 @@ class SECComplaintParser():
                 filings_matched += 1
 
         return filings_matched
+    
+    @staticmethod
+    def parse_sec_complaint_attributes(text: str) -> dict:
+        """
+        Extracts key attributes from SEC complaint text:
+        defendants, plaintiffs, court, title, case number, date, attorneys, etc.
+        Returns a dictionary of attributes.
+        """
+        attributes = {}
+
+        # Court
+        court_match = re.search(r"(united states district court.*?district of [a-z ]+)", text, re.IGNORECASE)
+        attributes['court'] = court_match.group(1).strip() if court_match else None
+
+        # Plaintiffs
+        plaintiff_match = re.search(r"(securities and exchange commission.*?plaintiff)", text, re.IGNORECASE)
+        attributes['plaintiff'] = plaintiff_match.group(1).strip() if plaintiff_match else None
+
+        # Defendants
+        defendant_match = re.search(r"against (.*?) defendant", text, re.IGNORECASE)
+        attributes['defendants'] = defendant_match.group(1).strip() if defendant_match else None
+
+        # Title
+        title_match = re.search(r"(complaint|amended complaint|civil complaint)", text, re.IGNORECASE)
+        attributes['title'] = title_match.group(1).strip() if title_match else None
+
+        # Case Number
+        case_match = re.search(r"(\d{2,} civ[^\d]+)", text, re.IGNORECASE)
+        attributes['case_number'] = case_match.group(1).strip() if case_match else None
+
+        # Date
+        date_match = re.search(r"dated [a-z ]+ \d{4}", text, re.IGNORECASE)
+        attributes['date'] = date_match.group(0).replace("dated", "").strip() if date_match else None
+
+        # Attorneys
+        attorneys_match = re.search(r"(attorneys? for plaintiff.*?commission)", text, re.IGNORECASE)
+        attributes['attorneys'] = attorneys_match.group(1).strip() if attorneys_match else None
+
+        # Jury Trial
+        jury_match = re.search(r"(jury trial demanded)", text, re.IGNORECASE)
+        attributes['jury_trial'] = jury_match.group(1).strip() if jury_match else None
+
+        return attributes
