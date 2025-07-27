@@ -240,3 +240,78 @@ class SECComplaintParser():
         attributes['jury_trial'] = jury_match.group(1).strip() if jury_match else None
 
         return attributes
+    
+
+    import re
+
+    @staticmethod
+    def parse_sec_complaint_full(text: str) -> dict:
+        """
+        Extracts structured attributes and logical sections from SEC complaint text.
+        Returns a dictionary with 'attributes' and 'sections'.
+        """
+        result = {}
+        attributes = {}
+
+        # --- Structured attributes ---
+        # Court
+        court_match = re.search(r"(united states district court.*?district of [a-z ]+)", text, re.IGNORECASE)
+        attributes['court'] = court_match.group(1).strip() if court_match else None
+
+        # Plaintiffs
+        plaintiff_match = re.search(r"(securities and exchange commission.*?plaintiff)", text, re.IGNORECASE)
+        attributes['plaintiff'] = plaintiff_match.group(1).strip() if plaintiff_match else None
+
+        # Defendants
+        defendant_match = re.search(r"-against-\s*(.*?)\s*complaint", text, re.IGNORECASE | re.DOTALL)
+        attributes['defendants'] = defendant_match.group(1).strip() if defendant_match else None
+
+        # Attorneys
+        attorneys_match = re.search(r"(attorneys? for plaintiff.*?commission)", text, re.IGNORECASE | re.DOTALL)
+        attributes['attorneys'] = attorneys_match.group(1).strip() if attorneys_match else None
+
+        # Case Number
+        case_match = re.search(r"(\d{2,} civ\.? [^\s]+)", text, re.IGNORECASE)
+        attributes['case_number'] = case_match.group(1).strip() if case_match else None
+
+        # Jury Trial
+        jury_match = re.search(r"(jury trial demanded)", text, re.IGNORECASE)
+        attributes['jury_trial'] = jury_match.group(1).strip() if jury_match else None
+
+        # --- Logical Sections ---
+        # Define section headings (expand as needed)
+        headings = [
+            "summary",
+            "violations",
+            "nature of the proceedings and relief sought",
+            "jurisdiction and venue",
+            "defendant",
+            "other relevant entities"
+        ]
+        # Lowercase for matching
+        headings_lower = [h.lower() for h in headings]
+
+        # Split into lines
+        lines = text.split('\n')
+        sections = {}
+        current_section = "preamble"
+        sections[current_section] = []
+
+        for line in lines:
+            clean_line = line.strip().lower()
+            # Check if line matches a heading
+            for heading in headings_lower:
+                if clean_line.startswith(heading):
+                    current_section = heading
+                    sections[current_section] = []
+                    break
+            sections[current_section].append(line.strip())
+
+        # Remove empty sections
+        for k in list(sections.keys()):
+            if not any(sections[k]):
+                del sections[k]
+
+        result['attributes'] = attributes
+        result['sections'] = sections
+        return result
