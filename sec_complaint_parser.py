@@ -242,8 +242,6 @@ class SECComplaintParser():
         return attributes
     
 
-    import re
-
     @staticmethod
     def parse_sec_complaint_full(text: str) -> dict:
         """
